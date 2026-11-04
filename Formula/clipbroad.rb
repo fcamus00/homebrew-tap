@@ -1,8 +1,8 @@
 class Clipbroad < Formula
   desc "Share the clipboard between your own machines, peer-to-peer"
   homepage "https://github.com/fcamus00/clipbroad"
-  url "https://github.com/fcamus00/clipbroad/releases/download/v0.3.2/clipbroad-v0.3.2-macos-aarch64.tar.gz"
-  sha256 "ba2dc5a1af0b81f523e9255508426b72759f5e3907a4554f17007a07b2c42b7d"
+  url "https://github.com/fcamus00/clipbroad/releases/download/v0.3.3/clipbroad-v0.3.3-macos-aarch64.tar.gz"
+  sha256 "c5df62e3063bd2d6d3a229df3179d35b291252e08cfaa8f9efa523cd2529bbac"
   license any_of: ["MIT", "Apache-2.0"]
 
   # Releases only ship an Apple Silicon build.
